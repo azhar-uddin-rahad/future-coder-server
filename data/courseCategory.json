@@ -1,0 +1,42 @@
+[
+    {
+      "id": "01",
+      "name": "GRAPHIC DESIGN"
+    },
+    {
+      "id": "02",
+      "name": "MOTION GRAPHICS"
+    },
+    {
+      "id": "03",
+      "name": "UX UI DESIGN"
+    },
+    {
+      "id": "04",
+      "name": "WEB DESIGN"
+    },
+    {
+      "id": "05",
+      "name": "WEB DEVELOPMENT"
+    },
+    {
+      "id": "06",
+      "name": "MERN STACK DEVELOPMENT"
+    },
+    {
+      "id": "07",
+      "name": "APP DEVELOPMENT"
+    },
+    {
+      "id": "08",
+      "name": "PHYTON WITH DJANGO"
+    },
+    {
+      "id": "09",
+      "name": "MACHING LEARNING"
+    },
+    {
+      "id": "10",
+      "name": "All News"
+    }
+  ]
