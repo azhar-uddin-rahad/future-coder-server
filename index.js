@@ -5,6 +5,14 @@ const app=express();
 const port=process.env.PORT || 5000;
 
 app.use(cors());
+const courseCategory= require('./data/courseCategory.json')
+
+app.get('/courseCategory',(req,res)=>{
+    res.send(courseCategory);
+})
+
+
+
 app.get('/',(req,res)=>{
     res.send('travel guru is running')
 });
